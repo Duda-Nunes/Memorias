@@ -30,6 +30,7 @@ header p {
 }
 
 .section {
+    display: flex;
     background-color: white;
     border: 1px solid #ddd;
     border-radius: 8px;
